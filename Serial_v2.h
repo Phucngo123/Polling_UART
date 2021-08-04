@@ -21,7 +21,7 @@
 * Function name         : static void USART_putstring(char *StringPtr, uint8_t usart_num)
 * char *StringPtr       : Data need to transmit
 * unit8_t usart_num     : The codition number to transmit 
-* Created by            : tamhau
+* Created by            : Phucngo
 * Date created          : Aug 2, 2021
 * Description           : Send the data and many letter per command
                           such as send  'HELLOWORD'  
