@@ -1,3 +1,4 @@
+/**************************************************
 * Function name	: static void USART_init(void)
 * Created by	: PhucNgo
 * Date created	: Aug 2, 2021
