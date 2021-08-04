@@ -1,5 +1,5 @@
 * Function name	: static void USART_init(void)
-* Created by	: tamhau
+* Created by	: PhucNgo
 * Date created	: Aug 2, 2021
 * Description	: Use to set baud rate
                   set frame format
@@ -10,7 +10,7 @@
 * Function name	        : static void USART_send(char data, uint8_t usart_num)
 * char data             : Data need to transmit
 * unit8_t usart_num	: The codition number to transmit 
-* Created by		: tamhau
+* Created by		: Phucngo
 * Date created		: Aug 2, 2021
 * Description		: Send the data and send 1 letter per command
                           such as send 'H'  
