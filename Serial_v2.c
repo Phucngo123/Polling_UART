@@ -33,15 +33,11 @@
 ***************************************************/
 
 
- #include <stdint.h>
-
- 
+ #include <stdint.h> 
  #include <avr/io.h>                     /*needed for uint8_t*/
  #include <avr/interrupt.h>
  #include <avr/pgmspace.h>
-
-
- #include "avr/Serial.h"
+ #include "avr/Serial_v2.h"
 
 
  /*CPU Freq*/
