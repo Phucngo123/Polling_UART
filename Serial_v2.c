@@ -1,7 +1,7 @@
 /***************************************************
 * Module name: Serial.c
 *
-* First written on ubuntu by tamhau.
+* First written on ubuntu by Phucngo.
 *
 * Module Description:
 * Module support to send data from PC to ATmega328P
